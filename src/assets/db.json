@@ -26,7 +26,7 @@
       "id": 6
     },
     {
-      "name": "test 4",
+      "name": "Фильмы и сериалы",
       "colorId": 6,
       "id": 7
     }
@@ -55,6 +55,18 @@
       "listId": 2,
       "text": "Redux (redux-observable, redux-saga)",
       "completed": false
+    },
+    {
+      "listId": 2,
+      "text": "qwqe",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "listId": 1,
+      "text": "test",
+      "completed": false,
+      "id": 6
     }
   ],
   "colors": [

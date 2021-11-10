@@ -40,6 +40,9 @@ const AddList = ({ colors, onAdd }) => {
 				onAdd(listObj);
 				onCLose();
 			})
+			.catch(() => {
+				alert('Ошибка при добавлении списка');
+			})
 			.finally(() => {
 				setIsloading(false);
 			});
