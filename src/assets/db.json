@@ -29,26 +29,29 @@
       "name": "Фильмы и сериалы",
       "colorId": 6,
       "id": 7
+    },
+    {
+      "name": "React JS",
+      "colorId": 7,
+      "id": 8
+    },
+    {
+      "name": "Blog",
+      "colorId": 4,
+      "id": 9
+    },
+    {
+      "name": "Kazan",
+      "colorId": 2,
+      "id": 10
     }
   ],
   "tasks": [
-    {
-      "id": 1,
-      "listId": 2,
-      "text": "Изучить JavaScript",
-      "completed": true
-    },
     {
       "id": 2,
       "listId": 2,
       "text": "Изучить паттерны проектирования",
       "completed": false
-    },
-    {
-      "id": 3,
-      "listId": 2,
-      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
-      "completed": true
     },
     {
       "id": 4,
@@ -57,16 +60,46 @@
       "completed": false
     },
     {
-      "listId": 2,
-      "text": "qwqe",
+      "listId": 4,
+      "text": "Герберт Ф. - Дюна",
       "completed": false,
-      "id": 5
+      "id": 9
+    },
+    {
+      "listId": 4,
+      "text": "Марк Аврелий - Наедине с собой",
+      "completed": true,
+      "id": 10
     },
     {
       "listId": 1,
-      "text": "test",
+      "text": "Подготовить портфолио",
       "completed": false,
-      "id": 6
+      "id": 11
+    },
+    {
+      "listId": 5,
+      "text": "Пересмотреть заметки еще раз",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "listId": 9,
+      "text": "Post",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "listId": 9,
+      "text": "Topik",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "listId": 10,
+      "text": "Street Bauman - 65",
+      "completed": true,
+      "id": 15
     }
   ],
   "colors": [

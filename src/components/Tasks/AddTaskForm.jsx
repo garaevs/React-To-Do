@@ -29,7 +29,7 @@ const AddTaskForm = ({ list, onAddTask }) => {
 				alert('Ошибка при добавлении задачи');
 			})
 			.finally(() => {
-				isLoading(false);
+				setIsLoading(false);
 			});
 	};
 
